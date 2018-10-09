@@ -12,9 +12,9 @@
 
 body {
   background-attachment: fixed;
-  background-color: #180a21;
-  background-image: url("assets/images/mesa1.jpeg");
-  background-size: cover;
+  /* background-color: #180a21; */
+  background: url("assets/images/mesa1red.jpg");
+  background-size: 100%;
   background-repeat: no-repeat;
   color: #ffffff;
   font-family: 'Lato', sans-serif;
