@@ -121,7 +121,7 @@ body {
 
   /******************** Navbar *******************/
 .nav-item {
-  margin-top: 30px;
+  white-space: nowrap;
 }
 
 .nav-link {
