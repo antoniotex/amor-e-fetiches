@@ -1,3 +1,23 @@
-.img-home {
-    width: 350px;
+.main-home {
+    width: 100%;
+    height: 90%;
+}
+
+.home-img {
+    width: 100%;
+}
+
+.footer {
+    height: 10%;
+}
+
+.footer p {
+    margin: 0;
+    padding: 0;
+}
+
+/* Setor Redes Sociais */
+.network-icon {
+    width: 50px;
+    cursor: pointer;
 }

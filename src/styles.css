@@ -10,11 +10,16 @@
   border: 1px solid blue;
 }
 
+body, html {
+  widows: 100%;
+  height: 100%;
+}
+
 body {
   background-attachment: fixed;
   /* background-color: #180a21; */
   background: url("assets/images/mesa1red.jpg");
-  background-size: 1200px;
+  background-size: 1500px;
   background-repeat: no-repeat;
   color: #ffffff;
   font-family: 'Lato', sans-serif;
@@ -116,7 +121,7 @@ body {
 
   /******************** Navbar *******************/
 .nav-item {
-  margin-top: 30px;
+  white-space: nowrap;
 }
 
 .nav-link {
