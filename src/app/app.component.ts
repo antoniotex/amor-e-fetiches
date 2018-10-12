@@ -6,4 +6,9 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
+
+  youtube(){
+    alert("Em breve, nosso canal do youtube estará no ar!")
+  }
+  
 }
